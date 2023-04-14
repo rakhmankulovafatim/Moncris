@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Woman</title>
+    <link rel="stylesheet" href="woman.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="header-top">
+            <div class="header-left">
+                <a href="">Укажите регион доставки</a>
+            </div>
+            <div class="header-right">
+                <div class="header-right-1">
+                    <img src="https://a.lmcdn.ru/bs2/8/97/24-px-usp-covid-19.svg    " alt="">
+                <p>Бесконтактная доставка с примеркой</p>   
+                </div>
+                <div class="header-right-2">
+                    <img src="https://a.lmcdn.ru/bs2/7/81/24-px-usp-any-pay1.svg" alt="">
+                    <p>Платите когда хотите</p>
+                </div>
+                <div class="header-right-3">
+                    <img src="http://a.lmcdn.ru/bs2/5/23/time_b.svg" alt="">
+                    <p>Как мы работаем сейчас</p>
+                </div>
+                </div>
+            </div>
+        </div>
+    </header>
+<section class="sec1">
+    <div class="container">
+    <div class="category">
+        <div class="category-1">
+        <ul class="btns">
+            <li><a href="" class="links">Женщинам</a></li>
+            <li><a href="../man/man.html" class="links">Мужчинам</a></li>
+            <li><a href="../children/children.html" class="links">Детям</a></li>
+        </ul>
+        </div>
+        
+        <div class="category-3">
+            <!-- <button>Войти</button>   -->
+            <img onclick="openBasket()" class="createPopup" src="../img/shopping-bags 1.png" alt="">
+            <p>Корзина</p>
+                <div class="popup">
+                    <p class="clouse-popup" onclick="openBasket()">x</p>
+                    <p>Итого: <span class="basket-sum"></span></p>
+                    <div class="basket-box">
+
+                    </div>
+            </div>
+        </div>
+        </div>
+        <h3><a href="../index.html"><img src="https://logomaster.com.ua/works/moncris_logo.gif" alt=""></a> </h3>
+        <div class="sec1-img">
+            <img src="https://a.lmcdn.ru/files/cms/tilda/5910814/images/tild6130-6136-4864-b337-643631653434__image.gif" alt="">
+        </div>
+        
+    </div>
+    <div class="container">
+        <div class="main-select">
+<div class="main-select-left">
+        <select class="main-select-brands">
+            <option value="">All</option>
+            <option value="polo">polo</option>
+            <option value="lamoda">lamoda</option>
+            <option value="Velvet">Velvet</option>
+        </select>
+        <select class="main-select-price">
+            <option value="">По умолчанию</option>
+            <option value="asc">По возрастанию</option>
+            <option value="desc">По убыванию</option>
+        </select>
+        <select class="main-select-category">
+            <option value="All">Все</option>
+            <option value="jacket">Куртки</option>
+            <option value="t-shirt">Футболки</option>
+            <option value="deuce">Двойки</option>
+            <option value="pants">Штаны</option>
+            <option value="shirt">Рубашки</option>
+            <option value="dress">Платье</option>
+            <option value="bag">Сумки</option>
+            <option value="shoes">Обувь</option>
+        </select>
+    </div>
+    <div class="main-select-right">
+        <input class="input-search" type="" placeholder="Поиск">
+    <button class="search">Поиск</button>
+
+    </div>
+    </div>
+    </div>
+    
+    
+    
+    
+
+    <div class="cards"></div>
+
+
+
+
+
+
+
+    <footer>
+        <div class="footer-left">
+            <h1>Скидка 10% за подписку<br>
+                на новинки и акции
+                </h1>
+                <div class="footer-button">
+                    <div class="footer-left-1">
+                
+                <img src="https://a.lmcdn.ru/static/23.01.18/assets/phone.ce18d9b9.svg" alt="">
+            </div>
+            <div class="footer-left-2">
+            <img src="data:image/png;base64,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" alt="">
+       <p>Скидка 10% на первый заказ<br> в приложении Lamoda</p>
+            
+                 </div>
+                </div>
+            
+        </div>
+    
+        <div class="footer-right">
+            <div class="footer-right-1">
+                <h2>Помощь</h2>
+            <ul>
+                <li>Статус заказа по номеру</li>
+                <li>Мои заказы</li>
+                <li>Условия доставки</li>
+                <li>Возврат</li>
+                <li>Как оформить заказ</li>
+                <li>Как выбрать размер</li>
+                <li>Центр поддержки Lamoda</li>
+                <li>Часто задаваемые вопросы</li>
+                <li>Lamoda club</li>
+                <li>Подарочные сертификаты</li>
+            </ul>
+            </div>
+            <div class="footer-right-2">
+                <h2>О нас</h2>
+                <ul>
+                    <li>Fashion-журнал lamoda</li>
+                    <li>Участие в исследованиях</li>
+                    <li>Вакансий</li>
+                    <li>Публичная оферта</li>
+                </ul>
+                <div class="footer-right-3">
+                    <h2>Партнерам</h2>
+                <ul>
+                    <li>Подключиться к партнёрской программе "Маркетплейс"</li>
+                    <li>Стать подрядчиком Lamoda</li>
+                    <li>Арендодателям</li>
+                    <li>Подарочные сертификаты для бизнеса</li>
+                </ul>
+                </div>
+                
+    
+            </div>
+            
+        </div>
+        
+    </footer>
+
+
+
+
+    <script src="../woman/woman.js"></script>
+</body>
+</html>
+

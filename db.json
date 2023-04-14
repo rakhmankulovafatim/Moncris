@@ -1,0 +1,452 @@
+{
+    "clothes": [
+      {
+        "id": 1,
+        "title": "Двойка",
+        "brand": "Velvet",
+        "category":"deuce",
+        "price" : "2900",
+        "image": "https://a.lmcdn.ru/img236x341/M/P/MP002XW0MDAU_18743601_1_v1_2x.jpg"
+     },
+     {
+      "id": 2,
+      "title": "Куртка",
+      "brand": "polo",
+      "category":"jacket",
+      "price" : "2390",
+      "image": "https://a.lmcdn.ru/img236x341/M/P/MP002XW0COUJ_16980784_1_v1_2x.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Куртка",
+      "brand": "polo",
+      "category":"jacket",
+      "price" : "2199",
+      "image": "https://a.lmcdn.ru/img236x341/R/T/RTLACB133301_18159055_1_v1_2x.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Куртка",
+      "brand": "polo",
+      "category":"jacket",
+      "price" : "2555",
+      "image": "https://a.lmcdn.ru/img236x341/M/P/MP002XW0KREA_17979600_2_v1_2x.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "Куртка",
+      "brand": "polo",
+      "category":"jacket",
+      "price" : "3250",
+      "image": "https://a.lmcdn.ru/img236x341/M/P/MP002XW0KREJ_17979574_1_v1_2x.jpeg"
+    },
+    {
+      "id": 6,
+      "title": "Куртка",
+      "brand": "polo",
+      "category":"jacket",
+      "price" : "2020",
+      "image": "https://a.lmcdn.ru/img236x341/R/T/RTLACH951901_18946155_2_v1_2x.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Футболка",
+      "brand": "Velvet",
+      "category":"t-shirt",
+      "price":"1755",
+      "image": "https://a.lmcdn.ru/img236x341/M/P/MP002XW071C4_14243002_1_v1_2x.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Футболка",
+      "brand": "Velvet",
+      "category":"t-shirt",
+      "price":"2500",
+      "image": "https://a.lmcdn.ru/img236x341/M/P/MP002XW0FH94_17644576_1_v1_2x.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Футболка",
+      "brand": "Velvet",
+      "category":"t-shirt",
+      "price":"3200",
+      "image": "https://a.lmcdn.ru/img236x341/M/P/MP002XW071C3_14242999_1_v1_2x.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Футболка",
+      "brand": "Velvet",
+      "category":"t-shirt",
+      "price":"1900",
+      "image": "https://a.lmcdn.ru/img236x341/M/P/MP002XW0CH4V_16774542_1_v3.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Футболка",
+      "brand": "Velvet",
+      "category":"t-shirt",
+      "price":"2012",
+      "image": "https://a.lmcdn.ru/img236x341/R/T/RTLACA437801_18155953_1_v1_2x.jpg"
+    },
+    
+    {
+      "id": 12,
+      "title": "Футболка",
+      "brand": "polo",
+      "category":"t-shirt",
+      "price":"2006",
+      "image": "https://a.lmcdn.ru/img236x341/M/P/MP002XW0MKNX_18789497_1_v1.jpeg"
+    },
+    {
+      "id": 13,
+      "title": "Футболка",
+      "brand": "polo",
+      "category":"t-shirt",
+      "price":"1994",
+      "image": "https://a.lmcdn.ru/img236x341/M/P/MP002XW0BGHD_16481795_1_v1_2x.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Двойка",
+      "brand": "polo",
+      "category":"deuce",
+      "price":"3700",
+      "image": "https://a.lmcdn.ru/img236x341/R/T/RTLACC161301_18280282_1_v1_2x.jpg "
+    },
+    {
+      "id": 15,
+      "title": "Штаны",
+      "brand": "polo",
+      "category":"pants",
+      "price":"3745",
+      "image": "https://a.lmcdn.ru/img236x341/R/T/RTLACE145701_18566500_1_v1_2x.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Штаны",
+      "brand": "polo",
+      "category":"pants",
+      "price":"3800",
+      "image": "https://a.lmcdn.ru/img236x341/M/P/MP002XW03EGU_12374956_1_v1.jpeg"
+    },
+    {
+      "id": 17,
+      "title": "Штаны",
+      "brand": "polo",
+      "category":"pants",
+      "price":"3700",
+      "image": "https://a.lmcdn.ru/img236x341/M/P/MP002XW0BS7E_16512848_1_v2_2x.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Штаны",
+      "brand": "polo",
+      "category":"pants",
+      "price":"3750",
+      "image": "https://a.lmcdn.ru/img236x341/M/P/MP002XW0KIDH_18232774_3_v1_2x.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Штаны",
+      "brand": "polo",
+      "category":"pants",
+      "price":"3740",
+      "image": "https://a.lmcdn.ru/img236x341/R/T/RTLACF549701_18745598_2_v1_2x.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Футболка",
+      "brand": "polo",
+      "category":"t-shirt",
+      "price":"1444",
+      "image": "https://a.lmcdn.ru/img236x341/M/P/MP002XW071C2_14242996_1_v1_2x.jpg"
+    },
+    {
+      "id": 21,
+      "title": "Футболка",
+      "brand": "polo",
+      "category":"t-shirt",
+      "price":"6570",
+      "image": "https://a.lmcdn.ru/img236x341/R/T/RTLABW764701_17829840_2_v2_2x.jpg"
+    },
+    {
+      "id": 22,
+      "title": "Двойка",
+      "brand": "polo",
+      "category":"deuce",
+      "price":"1199",
+      "image": "https://a.lmcdn.ru/img236x341/M/P/MP002XW03CCG_12340264_2_v2.jpeg"
+    },
+    {
+      "id": 23,
+      "title": "Рубашка",
+      "brand": "polo",
+      "category":"shirt",
+      "price":"3599",
+      "image": "https://a.lmcdn.ru/img236x341/M/P/MP002XW0KWPN_18371150_1_v1_2x.jpg"
+    },
+
+    {
+      "id": 24,
+      "title": "Рубашка",
+      "brand": "polo",
+      "category":"shirt",
+      "price":"6570",
+      "image": "https://a.lmcdn.ru/img236x341/M/P/MP002XW0A9FO_16101040_1_v1_2x.jpg"
+    },
+    {
+      "id": 25,
+      "title": "Рубашка",
+      "brand": "polo",
+      "category":"shirt",
+      "price":"2903",
+      "image": "https://a.lmcdn.ru/img236x341/M/P/MP002XW08PD5_15399502_1_v1_2x.jpg"
+    },
+    {
+      "id": 26,
+      "title": "Двойка",
+      "brand": "Velvet",
+      "category":"deuce",
+      "price":"2590",
+      "image": "https://a.lmcdn.ru/img236x341/M/P/MP002XW0FEH0_17623407_2_v1_2x.jpg"
+    },
+    {
+      "id": 27,
+      "title": "Футболка",
+      "brand": "polo",
+      "category":"t-shirt",
+      "image": "https://a.lmcdn.ru/img236x341/M/P/MP002XW15RNZ_17734018_2_v1_2x.jpg"
+    },
+    {
+      "id": 28,
+      "title": "Рубашка",
+      "brand": "polo",
+      "category":"shirt",
+      "image": "https://a.lmcdn.ru/img236x341/M/P/MP002XW099ZX_15801324_2_v1_2x.jpg"
+    },
+    {
+      "id": 29,
+      "title": "Рубашка",
+      "brand": "polo",
+      "category":"shirt",
+      "price":"3939",
+      "image": "https://a.lmcdn.ru/img236x341/R/T/RTLABO291601_17560456_1_v1_2x.jpg"
+    },
+    {
+      "id": 30,
+      "title": "Платье",
+      "brand": "polo",
+      "category":"dress",
+      "price":"3950",
+      "image": "https://a.lmcdn.ru/img236x341/M/P/MP002XW02I7M_11939098_2_v1.jpeg"
+    },
+    {
+      "id": 31,
+      "title": "Двойка",
+      "brand": "polo",
+      "category":"deuce",
+      "price":"1945",
+      "image": "https://a.lmcdn.ru/img236x341/M/P/MP002XW0MF6M_18790754_2_v1_2x.jpg"
+    },
+    {
+      "id": 32,
+      "title": "Двойка",
+      "brand": "polo",
+      "category":"deuce",
+      "price":"1169",
+      "image": "https://a.lmcdn.ru/img236x341/M/P/MP002XW09QQV_15687914_2_v1_2x.jpg"
+    },
+    {
+      "id": 33,
+      "title": "Рубашка",
+      "brand": "lamoda",
+      "category":"shirt",
+      "price":"899",
+      "image": "https://a.lmcdn.ru/img236x341/M/P/MP002XW03ZPI_12886926_1_v1_2x.jpg"
+    },
+    {
+      "id": 34,
+      "title": "Рубашка",
+      "brand": "lamoda",
+      "category":"shirt",
+      "price":"599",
+      "image": "https://a.lmcdn.ru/img236x341/M/P/MP002XW160Z6_18272944_1_v1_2x.jpg"
+    },
+    {
+      "id": 35,
+      "title": "Рубашка",
+      "brand": "lamoda",
+      "category":"shirt",
+      "price":"600",
+      "image": "https://a.lmcdn.ru/img236x341/M/P/MP002XW0MITE_18763256_2_v1.jpeg"
+    },
+    {
+      "id": 36,
+      "title": "Платье",
+      "brand": "Velvet",
+      "category":"dress",
+      "price":"999",
+      "image": "https://a.lmcdn.ru/img236x341/R/T/RTLABW770001_17830375_1_v2_2x.jpg"
+    },
+    {
+      "id": 37,
+      "title": "Платье",
+      "brand": "Velvet",
+      "category":"dress",
+      "price":"899",
+      "image": "https://a.lmcdn.ru/img236x341/M/P/MP002XW15S6O_17400408_1_v1_2x.jpg"
+    },
+    {
+      "id": 38,
+      "title": "Платье",
+      "brand": "Velvet",
+      "category":"dress",
+      "price":"2 340",
+      "image": "https://a.lmcdn.ru/img236x341/M/P/MP002XW0M1D0_18684633_1_v1_2x.jpg"
+    },
+    {
+      "id": 39,
+      "title": "Платье",
+      "brand": "Velvet",
+      "category":"dress",
+      "price":"3998",
+      "image": "https://a.lmcdn.ru/img236x341/R/T/RTLABW769001_17829884_1_v2_2x.jpg"
+    },
+    {
+      "id": 40,
+      "title": "Двойка",
+      "brand": "lamoda",
+      "category":"deuce",
+      "price":"700",
+      "image": "https://a.lmcdn.ru/img236x341/M/P/MP002XW1668Z_17543082_2_v1_2x.jpg"
+    },
+    {
+      "id": 41,
+      "title": "Рубашка",
+      "brand": "polo",
+      "category":"shirt",
+      "price":"800",
+      "image": "https://a.lmcdn.ru/img236x341/M/P/MP002XW0KA50_17812781_1_v1_2x.jpg"
+    },
+    {
+      "id": 42,
+      "title": "Двойка",
+      "brand": "lamoda",
+      "category":"deuce",
+      "price":"1000",
+      "image": "https://a.lmcdn.ru/img236x341/M/P/MP002XW0L5WM_18159909_2_v1.jpeg"
+    },
+    {
+      "id": 43,
+      "title": "Двойка",
+      "brand": "polo",
+      "category":"deuce",
+      "price":"3000",
+      "image": "https://a.lmcdn.ru/img236x341/M/P/MP002XW0LZC1_18549715_2_v1.jpeg"
+    },
+    {
+      "id": 44,
+      "title": "Рубашка",
+      "brand": "Velvet",
+      "category":"shirt",
+      "price":"4000",
+      "image": "https://a.lmcdn.ru/img236x341/M/P/MP002XW0KGKR_18201405_1_v1_2x.jpg"
+    },
+    {
+      "id": 45,
+      "title": "Двойка",
+      "brand": "polo",
+      "category":"deuce",
+      "price":"3999",
+      "image": "https://a.lmcdn.ru/img236x341/M/P/MP002XW0KA33_17812673_2_v1_2x.jpg"
+    },
+    {
+      "id": 46,
+      "title": "Сумка",
+      "brand": "polo",
+      "category":"bag",
+      "price":"3999",
+      "image": "https://a.lmcdn.ru/img236x341/R/T/RTLACI389201_19002866_1_v1_2x.jpg"
+    },
+    {
+      "id": 47,
+      "title": "Сумка",
+      "brand": "polo",
+      "category":"bag",
+      "price":"3999",
+      "image": "https://a.lmcdn.ru/img236x341/R/T/RTLABW798001_17988456_1_v1_2x.jpg"
+    },
+    {
+      "id": 48,
+      "title": "Сумка",
+      "brand": "polo",
+      "category":"bag",
+      "price":"3999",
+      "image": "https://a.lmcdn.ru/img236x341/R/T/RTLACF114501_18780484_2_v1_2x.jpg"
+    },
+    {
+      "id": 49,
+      "title": "Сумка",
+      "brand": "polo",
+      "category":"bag",
+      "price":"3999",
+      "image": "https://a.lmcdn.ru/img236x341/R/T/RTLABZ545701_18133100_1_v1_2x.jpg"
+    },
+    {
+      "id": 50,
+      "title": "Сумка",
+      "brand": "polo",
+      "category":"bag",
+      "price":"3999",
+      "image": "https://a.lmcdn.ru/img236x341/R/T/RTLACI388801_19005095_1_v1_2x.jpg"
+    },
+    {
+      "id": 51,
+      "title": "обувь",
+      "brand": "polo",
+      "category":"shoes",
+      "price":"3999",
+      "image": "https://static.zara.net/photos///2023/V/1/1/p/3528/110/800/2/w/280/3528110800_15_1_1.jpg?ts=1673452987591"
+    },
+    {
+      "id": 52,
+      "title": "обувь",
+      "brand": "polo",
+      "category":"shoes",
+      "price":"3999",
+      "image": "https://static.zara.net/photos///2023/V/1/1/p/1117/110/800/2/w/280/1117110800_15_1_1.jpg?ts=1674221786595"
+    },
+    {
+      "id": 53,
+      "title": "обувь",
+      "brand": "polo",
+      "category":"shoes",
+      "price":"3999",
+      "image": "https://static.zara.net/photos///2023/V/1/1/p/2582/110/002/2/w/280/2582110002_15_1_1.jpg?ts=1674548207437"
+    },
+    {
+      "id": 54,
+      "title": "обувь",
+      "brand": "polo",
+      "category":"shoes",
+      "price":"3999",
+      "image": "https://static.zara.net/photos///2023/V/1/1/p/1507/110/800/2/w/315/1507110800_15_1_1.jpg?ts=1673891494881"
+    },
+    {
+      "id": 55,
+      "title": "обувь",
+      "brand": "polo",
+      "category":"shoes",
+      "price":"3999",
+      "image": "https://static.zara.net/photos///2023/V/1/1/p/1207/110/800/2/w/315/1207110800_15_1_1.jpg?ts=1673892162529"
+    },
+    {
+      "id": 56,
+      "title": "обувь",
+      "brand": "polo",
+      "category":"shoes",
+      "price":"3999",
+      "image": "https://static.zara.net/photos///2023/V/1/1/p/1502/010/040/2/w/315/1502010040_15_5_1.jpg?ts=1673981716867"
+    }
+    ]
+  }
